@@ -1,0 +1,123 @@
+.color{
+    
+}
+.cherry, .tur, .am{
+    height:200px;
+    width: 30%;
+}
+.cherry {
+    background-color: #e50545;
+    border:0;
+}
+.cherry:hover{
+     background-color: #e50545;
+    opacity: 0.9;
+}
+.tur {
+    background-color: turquoise;
+    border:0;
+}
+.tur:hover{
+    background-color: turquoise;
+    opacity: 0.9;
+}
+.am {
+    background-color: #9b59b6;
+    border:0;
+}
+.am:hover{
+    background-color: #9b59b6;
+    opacity: 0.9;
+}
+.texty{
+    color: white;
+    right:0;
+    bottom:0;
+    font-size: 1.5em;
+    font-family: inherit;
+}
+
+
+.ulala
+{
+  padding-top:50px;
+  text-align: center;
+}
+.choice:hover{
+  background: #fee140;
+  color: black;
+  border: 0;
+}
+.choice{
+  background: #e50545;
+  border: 0;
+  
+}
+.selected {
+  background:#fee140;
+}
+.row1{
+  padding-top:10px;
+  text-align: center;
+  
+}
+.rowf{
+  padding-top:50px;
+}
+.tic{
+  height: 80px;
+  width:80px;
+  background: #e50545;
+  border: 0;
+  font-size: 2.5em;
+}
+.tictic{
+    background: turquoise;
+}
+.red{
+    background: #e50545;
+}
+.ame{
+    background: #9b59b6;
+}
+
+.tic:not([href]):not([tabindex]){
+    color: darkslategray;
+}
+.tic1:not([href]):not([tabindex]){
+    color: white;
+}
+
+
+.tic:hover{
+  background: #ffffff;
+  border: 0;
+}
+.lala{
+  background:white;
+}
+
+.head-text{
+  text-align:center;
+  padding-top:20px;
+  
+}
+.head-text h1{
+  font-weight:800;
+}
+
+#footer{
+  
+  position:relative;
+  float:bottom;
+  bottom:0;
+  width:100%;
+  height: 30px;
+  background-color:darkgrey;
+  padding-right:50px;
+  display:block;
+  }
+body{
+  padding:0px;
+  margin:0px;
+}
